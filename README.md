@@ -13,3 +13,9 @@ Tasks: Implement search functionality, measure insertion and search times, analy
 
 #### Note: 
 Detailed instructions, requirements, and evaluation criteria for each assignment are provided in the respective assignment documents within this repository.
+
+#### Grades:
+Assignment 1: 10/10\
+Assignment 2: 8.8/10
+
+
